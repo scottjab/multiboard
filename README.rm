@@ -1,0 +1,7 @@
+# multiboard
+> This is an experimental gprc based whiteboard that syncs over the network
+
+[![Build Status][travis-image]][travis-url]
+
+I glued github.com/hajimehoshi/ebiten to grpc.
+
